@@ -1,4 +1,0 @@
-framework module JWTDecode {
-  header "JWTDecode-Swift.h"
-  requires objc
-}
