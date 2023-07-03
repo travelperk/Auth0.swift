@@ -1,6 +1,5 @@
 #if WEB_AUTH_PLATFORM
 import Foundation
-import JWTDecode
 
 protocol JWTValidator {
     func validate(_ jwt: JWT) -> Auth0Error?

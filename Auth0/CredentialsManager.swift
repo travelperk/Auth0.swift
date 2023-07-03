@@ -1,8 +1,6 @@
 // swiftlint:disable file_length
 
 import Foundation
-import SimpleKeychain
-import JWTDecode
 import Combine
 #if WEB_AUTH_PLATFORM
 import LocalAuthentication

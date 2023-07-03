@@ -1,4 +1,3 @@
-import SimpleKeychain
 import Foundation
 
 /// Generic storage API for storing credentials.

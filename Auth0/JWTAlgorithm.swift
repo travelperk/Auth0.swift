@@ -1,6 +1,5 @@
 #if WEB_AUTH_PLATFORM
 import Foundation
-import JWTDecode
 
 enum JWTAlgorithm: String {
     case rs256 = "RS256"
